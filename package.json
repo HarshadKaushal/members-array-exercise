@@ -1,0 +1,7 @@
+{
+  "name": "members-array-exercise",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
