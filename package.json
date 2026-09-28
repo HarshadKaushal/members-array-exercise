@@ -1,0 +1,13 @@
+{
+  "name": "members-array-exercise",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx solution.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}
